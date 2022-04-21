@@ -1,4 +1,4 @@
-# Peoplesoft SQL Querry Collection 
+# Peoplesoft SQL Query Collection 
 
 A collection of Oracle SQL Human Resource queries. 
 
